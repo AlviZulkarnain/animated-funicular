@@ -1,0 +1,5 @@
+git init 
+git add Machine_readable
+git commit -m "first commit" 
+git remote add origin https://github.com/aisy/animated_funicular.git 
+git push -u origin master

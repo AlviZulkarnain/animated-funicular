@@ -1,1 +1,1 @@
-# animated-funicular
+# jupyter
